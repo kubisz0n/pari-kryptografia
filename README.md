@@ -1,2 +1,2 @@
 # pari-encrypted
-PARI/GP functions to exchange encrypted messages, based on RSA.
+PARI/GP functions to create encrypted messages, based on RSA.
